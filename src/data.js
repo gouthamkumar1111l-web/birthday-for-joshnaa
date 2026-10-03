@@ -1,7 +1,7 @@
 // ==========================
 // 1. Intro Screen
 // ==========================
-export const firstHeading = "Happy Birthday Joshnaa ❤️"
+export const firstHeading =  "A beautiful girl named Joshnaa was born today ❤️"
 // Main heading text - Change this text as you like
 
 export const firstSubtext =  "A special surprise just for you..."
