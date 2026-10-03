@@ -1,10 +1,10 @@
 // ==========================
 // 1. Intro Screen
 // ==========================
-export const firstHeading = "A Cutiepie was born today, 20 years ago!"
+export const firstHeading = "Happy Birthday Joshnaa ❤️"
 // Main heading text - Change this text as you like
 
-export const firstSubtext = "Yes, it’s YOU! A little surprise awaits..."
+export const firstSubtext =  "A special surprise just for you..."
 // Subtext under heading (optional) - Change, leave blank or remove.
 
 
@@ -12,7 +12,7 @@ export const firstSubtext = "Yes, it’s YOU! A little surprise awaits..."
 // 2. Cake Screen
 // ==========================
 // Add recipient's name here.
-export const NAME = "Cutiepiee!"
+export const NAME =  "Joshnaa"
 
 
 // ==========================
